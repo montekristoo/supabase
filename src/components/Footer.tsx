@@ -142,7 +142,7 @@ export const Footer = () => {
           >
             © Supabase Inc
           </Text>
-          <HStack gap="22px">
+          {/* <HStack gap="22px">
             <svg
               width="28"
               height="28"
@@ -196,7 +196,7 @@ export const Footer = () => {
                 fill="#A1A1A1"
               />
             </svg>
-          </HStack>
+          </HStack> */}
         </Flex>
       </Flex>
     </Flex>
